@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UMG Runtime Reflector",
+	"Description": "Editor tool for inspecting live UUserWidget and UWidget trees during PIE.",
+	"Category": "Editor",
+	"CreatedBy": "Codex",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Modules": [
+		{
+			"Name": "UMGRuntimeReflector",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
